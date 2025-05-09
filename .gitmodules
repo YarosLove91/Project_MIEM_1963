@@ -1,0 +1,16 @@
+[submodule "Lab_1_Classic_ALU/ALU_discrete_ic"]
+	path = Lab_1_Classic_ALU/ALU_discrete_ic
+	url = https://github.com/YarosLove91/ALU_discrete_ic
+[submodule "Lab_2_System_bus/Lab_System_bus"]
+	path = Lab_2_System_bus/Lab_System_bus
+	url = https://github.com/YarosLove91/Lab_System_bus
+[submodule "Lab_3_Software_CPU/biriscv"]
+	path = Lab_3_Software_CPU/biriscv
+	url = https://github.com/YarosLove91/biriscv
+[submodule "Lab_1_Classic_ALU/rtl/alu_rtl_74382"]
+	path = Lab_1_Classic_ALU/rtl/alu_rtl_74382
+	url = https://git.miem.hse.ru/1963/alu_rtl_74382.git
+	branch = 1-dev
+[submodule "Lab_1_Classic_ALU/rtl/alu_rtl_74381"]
+	path = Lab_1_Classic_ALU/rtl/alu_rtl_74381
+	url = https://git.miem.hse.ru/1963/alu_rtl_74381.git
